@@ -1,0 +1,16 @@
+.navigationPanel {
+    a {
+        text-decoration: none;
+        color: rgb(255, 255, 255);
+
+    }
+
+    :hover {
+        background-color: yellow;
+        border-radius: 5px;
+    }
+
+    .active {
+        color: red;
+    }
+}
