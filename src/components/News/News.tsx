@@ -4,7 +4,7 @@ const News = () => {
     return (
         <div className={style.content}>
             <h1>
-                NEWS
+                NEWS ALEX
             </h1>
         </div>
     )
